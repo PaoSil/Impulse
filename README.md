@@ -1,6 +1,6 @@
 # UVirtual
 
-![UVirtual](assets/img/logo.jpg)
+![UVirtual](assets/img/UVirtual.png)
 
 ## Antecedentes
 
