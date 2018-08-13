@@ -16,8 +16,8 @@ Mejorar la experiencia de registro a la postulación de un programa de maestría
 
 ### Competencia a nivel Nacional
 
-| Nombre del sitio |            Score (1/10)           | Score Total | Obs. Favorables | Obs. en Contra | Comentarios adicionales|
-|:----------------:|:---------:|:---------:|:---------:|:-----------:|:---------------:|:--------------:|:----------------------:|
-|
+| Nombre del sitio  | Score (1/10) |         Score Total         |         Obs. Favorables         |         Obs. en Contra         |          Comentarios adicionales         |
+|:-----------------|:--------:|:------:|:-------:|:---------------------------:|:-------------------------------:|:------------------------------:|---------------------------------------------------:|
+|[](https://2u.com/)|Usabilidad|Branding|Contenido|2u2u2u2uu2u2u2u2u2uu2u22u2u2u|2u2u2u2u2uu22uu2u2u2u2u2u2u2u2u2u|2u2u2u2u2uu2u2u2u2u2u2u2u2u2u2u2|             
 
 ### Competencia a nivel Internacional
