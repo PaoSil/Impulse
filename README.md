@@ -27,6 +27,7 @@ Las diferentes universidades utilizan plataformas **e-learning o LMS** (Learning
 * Dicta especializaciones para **ejecutivos**.
 * Es independiente del sistema operativo que se utilice, suficiente con acceso a internet.
 
+**Fuente:**[ESAN vs UVirtual](https://goo.gl/6V3FA3 "ESAN vs UVirtual")
 
 #### UPC:
 
@@ -44,7 +45,7 @@ Para el análisis comparativo se uso los siguientes parámetros **Usabilidad**, 
 
 **Fuente:**[Wayra](https://goo.gl/bfVLmm "Wayra")
 
-![](assets/)
+![](assets/img/nacional.png)
 
 ### Competencia a nivel Internacional:
 
@@ -77,10 +78,10 @@ Para el análisis comparativo se uso los siguientes parámetros **Usabilidad**, 
 
 **Fuente:**[Wayra](https://goo.gl/bfVLmm "Wayra")
 
-![](assets/)
+![](assets/img/internacional.jpg)
 
 ## Estructura
 
-La estructura planteada comprende
+La estructura planteada comprende: 
 
 ## Flujo del usuario
