@@ -104,7 +104,7 @@ La estructura planteada comprende como el usuario registra correctamente para Po
 
 ### treejack:
 
-**Fuente**: [OptimalWorkshop](https://goo.gl/mme6NN "OptimalWorkshop")
+**Estudio**: [UVirtual.org](https://goo.gl/cbWiri "UVirtual.org")
 
 #### Observaciones:
 
