@@ -104,8 +104,6 @@ La estructura planteada comprende como el usuario registra correctamente para Po
 
 ### treejack:
 
-**Excel**: [](assets/docs/UVirtual_results.xlsx).
-
 **Fuente**: [OptimalWorkshop](https://goo.gl/mme6NN "OptimalWorkshop")
 
 #### Observaciones:
