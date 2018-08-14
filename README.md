@@ -113,8 +113,18 @@ La estructura planteada comprende como el usuario registra correctamente para Po
 * El 20% elige la opción Postular Ahora.
 * El 30% realizó con éxito.				
 
-## Flujo del usuario (Propuesta)
+## Flujo del usuario (Propuesta Final)
+
+1. El usuario al momento de escoger el programa de maestría o magíster.
+2. Aparece info de la especialidad.
+3. Tendrá dos opciones si revisar la info de la especialidad detalladamente o continuar con el proceso de postulación.
+4. Sí el usuario elige ver detalladamente la info de su especialidad, en el menu-bar aparece por default la opción postular.
+5. Procede a llenar el form con sus datos personales, académicos, laborales y confirma sus datos.
 
 ![](assets/img/User-flow.png)
 
 **Fuente:** [User-flow](https://goo.gl/TF71cZ "User-flow")
+
+### Interacción con Marvel:
+
+**Fuente:** [UVirtual]()
