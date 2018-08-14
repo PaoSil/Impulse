@@ -106,7 +106,7 @@ La estructura planteada comprende como el usuario registra correctamente para Po
 
 **Fuente**: [OptimalWorkshop](https://goo.gl/mme6NN "OptimalWorkshop")
 
-**Excel:** [](assets/docs/UVirtual_results.xlsx)
+**Excel:** ![](assets/docs/UVirtual_results.xlsx)
 
 #### Observaciones:
 
