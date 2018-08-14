@@ -84,6 +84,6 @@ Para el análisis comparativo se uso los siguientes parámetros **Usabilidad**, 
 
 La estructura planteada comprende como el usuario registra correctamente para Postular a una maestría o magíster de la Universidad seleccionada por el usuario.
 
-![](assets/flujo.jpg)
+![](assets/img/flujo.jpg)
 
 ## Flujo del usuario
