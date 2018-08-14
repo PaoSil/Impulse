@@ -106,6 +106,8 @@ La estructura planteada comprende como el usuario registra correctamente para Po
 
 **Fuente**: [OptimalWorkshop](https://goo.gl/mme6NN "OptimalWorkshop")
 
+**Excel:** [](assets/docs/UVirtual_results.xlsx)
+
 #### Observaciones:
 
 * El 40% primero ve las universidades dónde podrían postular a una maestría.				
@@ -113,4 +115,6 @@ La estructura planteada comprende como el usuario registra correctamente para Po
 * El 20% elige la opción Postular Ahora.
 * El 30% realizó con éxito.				
 
-## Flujo del usuario
+## Flujo del usuario (Propuesta)
+
+![](assets/img/User-flow.png)
