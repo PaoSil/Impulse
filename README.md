@@ -38,15 +38,15 @@ Las diferentes universidades utilizan plataformas **e-learning o LMS** (Learning
 * Cuenta con la modalidad **blended** o semivirtual.
 * Para la interacción (virtual), utiliza herramientas síncronas como las videoconferencias, y asíncronas como los foros y wikis.         
 
-### Análisis Comparativo a nivel Internacional:
+### Análisis Comparativo a nivel Nacional:
 
 Para el análisis comparativo se uso los siguientes parámetros **Usabilidad**, **Branding** y **Contenido**, dando puntajes de 1 al 10.
 
-**Fuente:**[Wayra](https://goo.gl/Ti2KCT "Wayra")
+**Fuente:**[Wayra](https://goo.gl/bfVLmm "Wayra")
 
 ![](assets/)
 
-### Competencia a nivel Nacional:
+### Competencia a nivel Internacional:
 
 #### 2U:
 
@@ -75,7 +75,7 @@ Para el análisis comparativo se uso los siguientes parámetros **Usabilidad**, 
 
 Para el análisis comparativo se uso los siguientes parámetros **Usabilidad**, **Branding** y **Contenido**, dando puntajes de 1 al 10.
 
-**Fuente:**[Wayra](https://goo.gl/Ti2KCT "Wayra")
+**Fuente:**[Wayra](https://goo.gl/bfVLmm "Wayra")
 
 ![](assets/)
 
