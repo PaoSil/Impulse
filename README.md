@@ -10,9 +10,14 @@ UVirtual, es una empresa de educación que se dedica a las ventas de programas e
 
 ## Objetivo
 
-Mejorar la experiencia de registro a la postulación de un programa de maestría o máster en la Universidad correspondiente.
+Mejorar la experiencia del usuario al momento de registrarse a la postulación en un programa de máster o magíster de la Universidad que corresponda.
+El sistema debe permitir que el usuario se registre ordenadamente y sin dificultad a la maestría de su elección.
 
 ## Benchmarking
+
+Las diferentes universidades utilizan plataformas **e-learning o LMS** (Learning Management System) muy sofisticados y con tecnología de punta, para el dictado de sus programas de posgrado o cursos de especialización.
+
+[El Comercio](https://bit.ly/2GNfK7L "El Comercio")
 
 ### Competencia a nivel Nacional
 
@@ -21,3 +26,9 @@ Mejorar la experiencia de registro a la postulación de un programa de maestría
 |[](https://2u.com/)|Usabilidad|Branding|Contenido|2u2u2u2uu2u2u2u2u2uu2u22u2u2u|2u2u2u2u2uu22uu2u2u2u2u2u2u2u2u2u|2u2u2u2u2uu2u2u2u2u2u2u2u2u2u2u2|             
 
 ### Competencia a nivel Internacional
+
+## Estructura
+
+La estructura planteada comprende
+
+## Flujo del usuario
