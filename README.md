@@ -86,4 +86,24 @@ La estructura planteada comprende como el usuario registra correctamente para Po
 
 ![](assets/img/flujo.jpg)
 
+## Testing:
+
+### Presencial:
+
+|Usuarios|Link|
+|:------:|:--:|
+| User 1 |https://goo.gl/jwty6c |
+| User 2 |https://goo.gl/9aHVD4 |
+| User 3 |https://goo.gl/PS4Uyg |
+
+#### Observaciones:
+
+* Primero buscan su especialización, antes de lanzarse a postular.
+* Sino encuentran por especialización proceden a buscar por Universidad.
+* Una vez que encuentran lo que buscan proceden a postular o solicitar información.
+
+### treejack:
+
+#### Observaciones:
+
 ## Flujo del usuario
