@@ -40,6 +40,11 @@ Las diferentes universidades utilizan plataformas **e-learning o LMS** (Learning
 
 ### Análisis Comparativo a nivel Internacional:
 
+Para el análisis comparativo se uso los siguientes parámetros **Usabilidad**, **Branding** y **Contenido**, dando puntajes de 1 al 10.
+
+**Fuente:**[Wayra](https://goo.gl/Ti2KCT "Wayra")
+
+![](assets/)
 
 ### Competencia a nivel Nacional:
 
@@ -66,7 +71,13 @@ Las diferentes universidades utilizan plataformas **e-learning o LMS** (Learning
 
 **Fuente:** [Unir.net vs UVirtual](https://bit.ly/2Oydkt2 "UVirtual vs Unir.net")
 
-### Análisis Comparativo a nivel Internacional
+### Análisis Comparativo a nivel Internacional:
+
+Para el análisis comparativo se uso los siguientes parámetros **Usabilidad**, **Branding** y **Contenido**, dando puntajes de 1 al 10.
+
+**Fuente:**[Wayra](https://goo.gl/Ti2KCT "Wayra")
+
+![](assets/)
 
 ## Estructura
 
