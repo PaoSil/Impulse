@@ -82,6 +82,8 @@ Para el análisis comparativo se uso los siguientes parámetros **Usabilidad**, 
 
 ## Estructura
 
-La estructura planteada comprende: 
+La estructura planteada comprende como el usuario registra correctamente para Postular a una maestría o magíster de la Universidad seleccionada por el usuario.
+
+![](assets/flujo.jpg)
 
 ## Flujo del usuario
