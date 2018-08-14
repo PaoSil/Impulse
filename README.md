@@ -104,6 +104,15 @@ La estructura planteada comprende como el usuario registra correctamente para Po
 
 ### treejack:
 
+**Excel**: [](assets/docs/UVirtual_results.xlsx).
+
+**Fuente**: [OptimalWorkshop](https://goo.gl/mme6NN "OptimalWorkshop")
+
 #### Observaciones:
+
+* El 40% primero ve las universidades dónde podrían postular a una maestría.				
+* El 30% Solicita Información antes de postular.				
+* El 20% elige la opción Postular Ahora.
+* El 30% realizó con éxito.				
 
 ## Flujo del usuario
