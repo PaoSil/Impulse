@@ -64,7 +64,7 @@ Las diferentes universidades utilizan plataformas **e-learning o LMS** (Learning
 * Universidad en línea: cursos de grado, postgrado y máster en línea reconocidas en la unión europea.
 * Emplean la metodología e-learning innovadora.
 
-**Fuente:** [Unir.net vs UVirtual](https://bit.ly/2vIxNo2 "UVirtual vs Unir.net")
+**Fuente:** [Unir.net vs UVirtual](https://bit.ly/2Oydkt2 "UVirtual vs Unir.net")
 
 ### Análisis Comparativo a nivel Internacional
 
